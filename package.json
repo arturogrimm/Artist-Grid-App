@@ -2,6 +2,10 @@
   "name": "image-drawing-app",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
+=======
+  "homepage": "https://arturogrimm.github.io/artist-grid-app",
+>>>>>>> 15476eb (Initial commit)
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -36,5 +40,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+>>>>>>> 15476eb (Initial commit)
   }
 }
